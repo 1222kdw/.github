@@ -120,14 +120,12 @@ GitHub:
 
 GitHub:
 
-- [<아이디>](https://github.com/<아이디>)
+- [1222kdw](https://github.com/1222kdw)
 
 언어:
-
-- <언어>
-
+없음
 <자기소개>
-
+-안녕하세요 강동원입니다. 6개월 남았습니다.
 </details>
 
 
